@@ -2,13 +2,13 @@
 
 ## Hey 👋
 
-Je suis un développeur basé au Canada, spécialisé dans la création d’expériences web modernes, performantes et entièrement repensées.
+I'm a developer based in Canada, focused on building modern, high-performance web experiences and rethinking how existing platforms should work.
 
-Je ne me limite pas à modifier l’existant — je préfère **reconstruire, optimiser et repousser les limites**.
-Mon approche consiste souvent à repartir de zéro pour obtenir un contrôle total sur l’architecture, le design et les performances.
+I don't just tweak things — I **rebuild, optimize, and push ideas further**.
+My approach is often to start from scratch to gain full control over architecture, design, and performance.
 
-Un bon exemple est **BetterCrunchyroll** :
-passé d’une simple extension qui modifiait le DOM à une **plateforme complète reconstruite via API**, avec une interface totalement custom et une logique indépendante du site d’origine.
+A good example is **BetterCrunchyroll**:
+what started as a simple DOM-based extension evolved into a **fully rebuilt platform powered by APIs**, with a completely custom interface and independent logic.
 
 ---
 
@@ -16,29 +16,38 @@ passé d’une simple extension qui modifiait le DOM à une **plateforme complè
 
 * **JavaScript / TypeScript** (advanced)
 * **Frontend Engineering** (React, UI/UX, performance)
-* **Browser Extensions Architecture**
+* **Browser Extension Architecture**
 * **API Reverse Engineering**
-* **Full Rebuild / Refactor de plateformes**
+* **Full Platform Rebuilds & Refactoring**
 * **System Design & Scalability**
 
 ---
 
 ## 🚀 What I Focus On
 
-* Repenser complètement des produits existants
-* Créer des interfaces fluides, modernes et efficaces
-* Construire des projets ambitieux et techniques
-* Optimiser chaque détail (UX, perf, structure)
+* Reimagining existing products
+* Building smooth, modern, and efficient interfaces
+* Developing ambitious and technical projects
+* Optimizing every detail (UX, performance, structure)
 
 ---
 
 ## ⚡ Mindset
 
-* Toujours apprendre en construisant
-* Préférer des solutions propres et scalables
-* Ne pas avoir peur de rebuild quand c’est nécessaire
+* Learn by building
+* Prioritize clean and scalable solutions
+* Rebuild when necessary, not when convenient
 
-Je travaille souvent sur plusieurs projets en parallèle, parfois assez massifs — avec un objectif simple : **aller plus loin que la version “attendue” d’un produit**.
+I often work on multiple projects simultaneously — sometimes large-scale — with one goal in mind:
+**go beyond what’s expected.**
+
+---
+
+## 🎴
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="500"/>
+</p>
 
 ---
 
@@ -71,18 +80,6 @@ Je travaille souvent sur plusieurs projets en parallèle, parfois assez massifs 
 ![](https://github-readme-stats.vercel.app/api?username=JeremGamingYT\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=JeremGamingYT\&theme=dark\&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremGamingYT\&theme=dark\&hide_border=false\&layout=compact)
-
----
-
-## 🏆 Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=JeremGamingYT\&theme=radical\&no-frame=true\&no-bg=true\&margin-w=4)
-
----
-
-## 🔝 Top Contributions
-
-![](https://github-contributor-stats.vercel.app/api?username=JeremGamingYT\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
 
 ---
 
