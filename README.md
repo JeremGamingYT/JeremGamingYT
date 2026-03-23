@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://gifs.alphacoders.com/gifs/view/4256" width="100%"/>
+</p>
+
+---
+
 # 💫 About Me
 
 ## Hey 👋
@@ -9,45 +15,6 @@ My approach is often to start from scratch to gain full control over architectur
 
 A good example is **BetterCrunchyroll**:
 what started as a simple DOM-based extension evolved into a **fully rebuilt platform powered by APIs**, with a completely custom interface and independent logic.
-
----
-
-## 💻 Core Skills
-
-* **JavaScript / TypeScript** (advanced)
-* **Frontend Engineering** (React, UI/UX, performance)
-* **Browser Extension Architecture**
-* **API Reverse Engineering**
-* **Full Platform Rebuilds & Refactoring**
-* **System Design & Scalability**
-
----
-
-## 🚀 What I Focus On
-
-* Reimagining existing products
-* Building smooth, modern, and efficient interfaces
-* Developing ambitious and technical projects
-* Optimizing every detail (UX, performance, structure)
-
----
-
-## ⚡ Mindset
-
-* Learn by building
-* Prioritize clean and scalable solutions
-* Rebuild when necessary, not when convenient
-
-I often work on multiple projects simultaneously — sometimes large-scale — with one goal in mind:
-**go beyond what’s expected.**
-
----
-
-## 🎴
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="500"/>
-</p>
 
 ---
 
